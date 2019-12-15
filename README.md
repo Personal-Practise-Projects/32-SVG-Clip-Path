@@ -1,0 +1,1 @@
+# 32-SVG-Clip-Path
